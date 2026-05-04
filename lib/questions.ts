@@ -1,0 +1,61 @@
+export const questions: { question: string; pinyin: string }[] = [
+  { question: '世界上最恐怖的邮箱', pinyin: 'shì jiè shàng zuì kǒng bù de yóu xiāng' },
+  { question: '世界上最胖的女人', pinyin: 'shì jiè shàng zuì pàng de nǚ rén' },
+  { question: '最适合杀人的天气', pinyin: 'zuì shì hé shā rén de tiān qì' },
+  { question: '世界上最无聊的工作', pinyin: 'shì jiè shàng zuì wú liáo de gōng zuò' },
+  { question: '最让人尴尬的姓氏', pinyin: 'zuì ràng rén gān gà de xìng shì' },
+  { question: '世界上最丑的动物', pinyin: 'shì jiè shàng zuì chǒu de dòng wù' },
+  { question: '最容易暴露年龄的时刻', pinyin: 'zuì róng yì bào lù nián líng de shí kè' },
+  { question: '最不想加班的日子', pinyin: 'zuì bù xiǎng jiā bān de rì zi' },
+  { question: '世界上最记仇的人', pinyin: 'shì jiè shàng zuì jì chóu de rén' },
+  { question: '最不适合穿泳装的身材', pinyin: 'zuì bù shì hé chuān yǒng zhuāng de shēn cái' },
+  { question: '最让人失眠的声音', pinyin: 'zuì ràng rén shī mián de shēng yīn' },
+  { question: '世界上最难吃的食物', pinyin: 'shì jiè shàng zuì nán chī de shí wù' },
+  { question: '最让人尴尬的对话', pinyin: 'zuì ràng rén gān gà de duì huà' },
+  { question: '世界上最无聊的节日', pinyin: 'shì jiè shàng zuì wú liáo de jié rì' },
+  { question: '最不受欢迎的礼物', pinyin: 'zuì bù shòu huān yíng de lǐ wù' },
+  { question: '最让人窒息的季节', pinyin: 'zuì ràng rén zhì xī de jì jié' },
+  { question: '世界上最难闻的味道', pinyin: 'shì jiè shàng zuì nán wén de wèi dào' },
+  { question: '最让人无语的瞬间', pinyin: 'zuì ràng rén wú yǔ de shùn jiān' },
+  { question: '最尴尬的被叫错的名字', pinyin: 'zuì gān gà de bèi jiào cuò de míng zi' },
+  { question: '世界上最懒的动物', pinyin: 'shì jiè shàng zuì lǎn de dòng wù' },
+  { question: '最不想接的电话', pinyin: 'zuì bù xiǎng jiē de diàn huà' },
+  { question: '最让人社死的瞬间', pinyin: 'zuì ràng rén shè sǐ de shùn jiān' },
+  { question: '世界上最贵的液体', pinyin: 'shì jiè shàng zuì guì de yè tǐ' },
+  { question: '最尴尬的撞衫对象', pinyin: 'zuì gān gà de zhuàng shān duì xiàng' },
+  { question: '最让人哭笑不得的情况', pinyin: 'zuì ràng rén kū xiào bù dé de qíng kuàng' },
+  { question: '世界上最危险的工作', pinyin: 'shì jiè shàng zuì wēi xiǎn de gōng zuò' },
+  { question: '最不想删除的照片', pinyin: 'zuì bù xiǎng shān chú de zhào piàn' },
+  { question: '最让人反感的行为', pinyin: 'zuì ràng rén fǎn gǎn de xíng wéi' },
+  { question: '世界上最冷的冷笑话', pinyin: 'shì jiè shàng zuì lěng de lěng xiào huà' },
+  { question: '最不想听到的夸奖', pinyin: 'zuì bù xiǎng tīng dào de kuā jiǎng' },
+  { question: '最尴尬的认错人', pinyin: 'zuì gān gà de rèn cuò rén' },
+  { question: '世界上最长的等待', pinyin: 'shì jiè shàng zuì cháng de děng dài' },
+  { question: '最让人难受的姿势', pinyin: 'zuì ràng rén nán shòu de zī shì' },
+  { question: '最不想分享的食物', pinyin: 'zuì bù xiǎng fēn xiǎng de shí wù' },
+  { question: '世界上最奇怪的职业', pinyin: 'shì jiè shàng zuì qí guài de zhí yè' },
+  { question: '最尴尬的迟到理由', pinyin: 'zuì gān gà de chí dào lǐ yóu' },
+  { question: '最让人厌烦的口头禅', pinyin: 'zuì ràng rén yàn fán de kǒu tóu chán' },
+  { question: '世界上最难学的语言', pinyin: 'shì jiè shàng zuì nán xué de yǔ yán' },
+  { question: '最不想遇到的邻居', pinyin: 'zuì bù xiǎng yù dào de lín jū' },
+  { question: '最尴尬的自我介绍', pinyin: 'zuì gān gà de zì wǒ jiè shào' },
+  { question: '世界上最古老的职业', pinyin: 'shì jiè shàng zuì gǔ lǎo de zhí yè' },
+  { question: '最让人害怕的动物', pinyin: 'zuì ràng rén hài pà de dòng wù' },
+  { question: '最不想换的工作', pinyin: 'zuì bù xiǎng huàn de gōng zuò' },
+  { question: '最尴尬的合照对象', pinyin: 'zuì gān gà de hé zhào duì xiàng' },
+  { question: '世界上最甜的东西', pinyin: 'shì jiè shàng zuì tián de dōng xi' },
+  { question: '最让人无奈的习惯', pinyin: 'zuì ràng rén wú nài de xí guàn' },
+  { question: '最不想删的聊天记录', pinyin: 'zuì bù xiǎng shān de liáo tiān jì lù' },
+  { question: '世界上最难喝的饮料', pinyin: 'shì jiè shàng zuì nán hē de yǐn liào' },
+  { question: '最尴尬的送错礼', pinyin: 'zuì gān gà de sòng cuò lǐ' },
+  { question: '最让人心疼的动物', pinyin: 'zuì ràng rén xīn téng de dòng wù' },
+];
+
+export function getRandomQuestion(): { question: string; pinyin: string } {
+  const index = Math.floor(Math.random() * questions.length);
+  return questions[index];
+}
+
+export function getQuestionByIndex(index: number): { question: string; pinyin: string } {
+  return questions[index % questions.length];
+}
